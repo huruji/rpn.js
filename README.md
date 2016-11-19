@@ -6,10 +6,14 @@ I want to moke a Calculator WeixinAPP, but I found that WeixinAPP don't support 
 
 ## Getting it
 In a browser, you can load rpn with a script tag, as you would any other JavaScript library:
-<pre><script src="rpn.js" type="text/javascript"></script></pre>
-or
-<pre><script src="rpn.min.js" type="text/javascript"></script></pre>
 
+```html
+<script src="rpn.js" type="text/javascript"></script>
+```
+or
+```html
+<script src="rpn.min.js" type="text/javascript"></script>
+```
 ## Usage
 1. <code> isOperator(value) </code> if value is oneof operators(<code> +-*/()×÷ </code>), return <code>true</code>
 
