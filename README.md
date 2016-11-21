@@ -2,7 +2,7 @@
 Calculate Reverse Polish Notation
 
 ## Why I do it
-I want to moke a Calculator WeixinAPP, but I found that WeixinAPP don't support 'eval' maybe for the security.
+I want to make a Calculator WeixinAPP, but I found that WeixinAPP don't support 'eval' maybe for the security.
 
 ## Getting it
 In a browser, you can load rpn with a script tag, as you would any other JavaScript library:
