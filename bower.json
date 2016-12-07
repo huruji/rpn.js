@@ -1,0 +1,25 @@
+{
+  "name": "rpn.js",
+  "main": "rpn.js",
+  "homepage": "https://github.com/huruji/rpn.js",
+  "authors": [
+    "huruji <594613537@qq.com>"
+  ],
+  "description": "Calculate Reverse Polish Notation",
+  "keywords": [
+    "Calculate",
+    "Reverse",
+    "Polish",
+    "Notation",
+    "rpn",
+    "MATH"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
