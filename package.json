@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "build": "cross-env BABEL_ENV=build node build"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,16 @@
   "bugs": {
     "url": "https://github.com/huruji/rpn.js/issues"
   },
-  "homepage": "https://github.com/huruji/rpn.js#readme"
+  "homepage": "https://github.com/huruji/rpn.js#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "cross-env": "^5.1.6",
+    "rollup": "^0.59.2",
+    "rollup-plugin-babel": "^3.0.4"
+  },
+  "dependencies": {
+    "rollup-plugin-uglify": "^3.0.0"
+  }
 }
