@@ -1,0 +1,19 @@
+{
+  "name": "rpn.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huruji/rpn.js.git"
+  },
+  "author": "huruji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huruji/rpn.js/issues"
+  },
+  "homepage": "https://github.com/huruji/rpn.js#readme"
+}
